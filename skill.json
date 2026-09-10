@@ -1,0 +1,17 @@
+{
+  "name": "genpark-flatbuffers-zero-copy-vtable-serializer-skill",
+  "version": "1.0.0",
+  "description": "FlatBuffers zero-copy serialization engine implementing schema virtual tables (vtables), direct memory indexing, and in-place field reads.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "flatbuffers",
+    "zero-copy",
+    "vtable",
+    "binary-serialization",
+    "memory-mapped"
+  ],
+  "dependencies": []
+}
